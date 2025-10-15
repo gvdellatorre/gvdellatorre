@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Educator/Historian" 
   location         : "New Jersey"
-  employer         : "Morris Hills High School"
+  employer         : # Employer Name 
   uri              : # URL
   email            : "guy@guydel.com" 
 
